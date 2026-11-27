@@ -1,0 +1,240 @@
+{
+  "capturedAt": "2026-11-27T16:15:40.072Z",
+  "flociEndpoint": "http://localhost:4588",
+  "redactionPolicy": "Strict whitelist: timestamp, requestId, operation, result, statusCode, latencyMs only",
+  "totalEntriesCaptured": 29,
+  "entries": [
+    {
+      "timestamp": "2026-11-27T16:15:38.851Z",
+      "requestId": "REQ-a6b6213610b5e717",
+      "operation": "GET_REQUEST",
+      "result": "FOUND",
+      "statusCode": 200,
+      "latencyMs": 5.19
+    },
+    {
+      "timestamp": "2026-11-27T16:15:38.830Z",
+      "requestId": "REQ-a6b6213610b5e717",
+      "operation": "INVALID_TRANSITION",
+      "result": "TRANSITION_REJECTED",
+      "statusCode": 400,
+      "latencyMs": 14.65
+    },
+    {
+      "timestamp": "2026-11-27T16:15:38.800Z",
+      "requestId": null,
+      "operation": "INVALID_INPUT",
+      "result": "VALIDATION_FAILED",
+      "statusCode": 400,
+      "latencyMs": 0.06
+    },
+    {
+      "timestamp": "2026-11-27T16:15:38.784Z",
+      "requestId": "REQ-0000000000000000",
+      "operation": "GET_REQUEST",
+      "result": "NOT_FOUND",
+      "statusCode": 404,
+      "latencyMs": 11.59
+    },
+    {
+      "timestamp": "2026-11-27T16:15:38.756Z",
+      "requestId": "REQ-a6b6213610b5e717",
+      "operation": "GET_REQUEST",
+      "result": "FOUND",
+      "statusCode": 200,
+      "latencyMs": 11.7
+    },
+    {
+      "timestamp": "2026-11-27T16:15:38.714Z",
+      "requestId": "REQ-a6b6213610b5e717",
+      "operation": "CREATE_REQUEST",
+      "result": "CREATED",
+      "statusCode": 201,
+      "latencyMs": 24.69
+    },
+    {
+      "timestamp": "2026-11-27T16:01:29.350Z",
+      "requestId": "REQ-dd490854dd8e1873",
+      "operation": "GET_REQUEST",
+      "result": "FOUND",
+      "statusCode": 200,
+      "latencyMs": 17.45
+    },
+    {
+      "timestamp": "2026-11-27T16:01:28.207Z",
+      "requestId": "REQ-dd490854dd8e1873",
+      "operation": "GET_REQUEST",
+      "result": "FOUND",
+      "statusCode": 200,
+      "latencyMs": 5.03
+    },
+    {
+      "timestamp": "2026-11-27T16:01:28.185Z",
+      "requestId": "REQ-dd490854dd8e1873",
+      "operation": "INVALID_TRANSITION",
+      "result": "TRANSITION_REJECTED",
+      "statusCode": 400,
+      "latencyMs": 11.55
+    },
+    {
+      "timestamp": "2026-11-27T16:01:28.157Z",
+      "requestId": null,
+      "operation": "INVALID_INPUT",
+      "result": "VALIDATION_FAILED",
+      "statusCode": 400,
+      "latencyMs": 0.05
+    },
+    {
+      "timestamp": "2026-11-27T16:01:28.139Z",
+      "requestId": "REQ-0000000000000000",
+      "operation": "GET_REQUEST",
+      "result": "NOT_FOUND",
+      "statusCode": 404,
+      "latencyMs": 11.81
+    },
+    {
+      "timestamp": "2026-11-27T16:01:28.112Z",
+      "requestId": "REQ-dd490854dd8e1873",
+      "operation": "GET_REQUEST",
+      "result": "FOUND",
+      "statusCode": 200,
+      "latencyMs": 9.65
+    },
+    {
+      "timestamp": "2026-11-27T16:01:28.068Z",
+      "requestId": "REQ-dd490854dd8e1873",
+      "operation": "CREATE_REQUEST",
+      "result": "CREATED",
+      "statusCode": 201,
+      "latencyMs": 33.78
+    },
+    {
+      "timestamp": "2026-11-27T13:57:08.035Z",
+      "requestId": null,
+      "operation": "LIST_REQUESTS",
+      "result": "SUCCESS_COUNT_5",
+      "statusCode": 200,
+      "latencyMs": 10.48
+    },
+    {
+      "timestamp": "2026-11-27T13:57:07.472Z",
+      "requestId": null,
+      "operation": "LIST_REQUESTS",
+      "result": "SUCCESS_COUNT_5",
+      "statusCode": 200,
+      "latencyMs": 15.2
+    },
+    {
+      "timestamp": "2026-11-27T13:57:06.606Z",
+      "requestId": null,
+      "operation": "LIST_REQUESTS",
+      "result": "SUCCESS_COUNT_5",
+      "statusCode": 200,
+      "latencyMs": 41.24
+    },
+    {
+      "timestamp": "2026-11-27T13:49:24.539Z",
+      "requestId": null,
+      "operation": "LIST_REQUESTS",
+      "result": "SUCCESS_COUNT_5",
+      "statusCode": 200,
+      "latencyMs": 19.12
+    },
+    {
+      "timestamp": "2026-11-27T13:49:24.476Z",
+      "requestId": null,
+      "operation": "LIST_REQUESTS",
+      "result": "SUCCESS_COUNT_5",
+      "statusCode": 200,
+      "latencyMs": 16.54
+    },
+    {
+      "timestamp": "2026-11-27T13:46:05.068Z",
+      "requestId": "REQ-a804256d100cd650",
+      "operation": "GET_REQUEST",
+      "result": "FOUND",
+      "statusCode": 200,
+      "latencyMs": 17.34
+    },
+    {
+      "timestamp": "2026-11-27T13:46:03.403Z",
+      "requestId": "REQ-a804256d100cd650",
+      "operation": "GET_REQUEST",
+      "result": "FOUND",
+      "statusCode": 200,
+      "latencyMs": 16
+    },
+    {
+      "timestamp": "2026-11-27T13:46:03.200Z",
+      "requestId": "REQ-a804256d100cd650",
+      "operation": "INVALID_TRANSITION",
+      "result": "TRANSITION_REJECTED",
+      "statusCode": 400,
+      "latencyMs": 18.88
+    },
+    {
+      "timestamp": "2026-11-27T13:46:03.168Z",
+      "requestId": null,
+      "operation": "INVALID_INPUT",
+      "result": "VALIDATION_FAILED",
+      "statusCode": 400,
+      "latencyMs": 0.05
+    },
+    {
+      "timestamp": "2026-11-27T13:46:03.155Z",
+      "requestId": "REQ-0000000000000000",
+      "operation": "GET_REQUEST",
+      "result": "NOT_FOUND",
+      "statusCode": 404,
+      "latencyMs": 14.44
+    },
+    {
+      "timestamp": "2026-11-27T13:46:03.127Z",
+      "requestId": "REQ-a804256d100cd650",
+      "operation": "GET_REQUEST",
+      "result": "FOUND",
+      "statusCode": 200,
+      "latencyMs": 9.7
+    },
+    {
+      "timestamp": "2026-11-27T13:46:03.093Z",
+      "requestId": "REQ-a804256d100cd650",
+      "operation": "CREATE_REQUEST",
+      "result": "CREATED",
+      "statusCode": 201,
+      "latencyMs": 20.26
+    },
+    {
+      "timestamp": "2026-11-27T13:42:54.245Z",
+      "requestId": "REQ-b5ce4512d0000004",
+      "operation": "CREATE_REQUEST",
+      "result": "SEEDED_SYNTHETIC_DEMO",
+      "statusCode": 201,
+      "latencyMs": 158.96
+    },
+    {
+      "timestamp": "2026-11-27T13:42:54.213Z",
+      "requestId": "REQ-b5ce3190c0000003",
+      "operation": "CREATE_REQUEST",
+      "result": "SEEDED_SYNTHETIC_DEMO",
+      "statusCode": 201,
+      "latencyMs": 127.26
+    },
+    {
+      "timestamp": "2026-11-27T13:42:54.181Z",
+      "requestId": "REQ-b5ce2081b0000002",
+      "operation": "CREATE_REQUEST",
+      "result": "SEEDED_SYNTHETIC_DEMO",
+      "statusCode": 201,
+      "latencyMs": 95.55
+    },
+    {
+      "timestamp": "2026-11-27T13:42:54.126Z",
+      "requestId": "REQ-b5ce1042a0000001",
+      "operation": "CREATE_REQUEST",
+      "result": "SEEDED_SYNTHETIC_DEMO",
+      "statusCode": 201,
+      "latencyMs": 40.82
+    }
+  ]
+}

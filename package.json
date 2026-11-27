@@ -1,0 +1,13 @@
+{
+  "name": "campusserve",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "CampusServe - BMSCE Cloud Student Service Request Platform",
+  "scripts": {
+    "dev:backend": "npm --prefix src/backend run start",
+    "dev:frontend": "npm --prefix src/frontend run dev",
+    "build:frontend": "npm --prefix src/frontend run build",
+    "test": "node tests/run-tests.mjs"
+  }
+}

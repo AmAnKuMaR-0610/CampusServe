@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.*
+
+# Local emulator & fallback runtime data
+floci-data/
+src/backend/local-data/
+
+# Temporary reference folder
+teammate-ref/
+
+# Build outputs & logs
+src/frontend/dist/
+*.log
+npm-debug.log*
